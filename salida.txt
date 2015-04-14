@@ -1,0 +1,28 @@
+
+                        -- FORMULARIO DE INSCRIPCION RAPIDA --
+
+
+        Nombre: Juan
+
+        Apellido: Morillo
+
+        Fecha de Nac. (DD/MM/AAAA): 04/10/1994
+
+        D.N.I.: 38637904
+
+        Nacionalidad: Argentina
+
+        Telefono/celular: 1130705371
+
+        Correo electronico: j.e.m@live.com.ar
+
+        +Desea recibir novedades via mail? (Si/No): Si
+
+
+
+                        Muchas gracias por elegirnos.
+
+
+--------------------------------
+Process exited after 39.23 seconds with return value 0
+Presione una tecla para continuar . . .
