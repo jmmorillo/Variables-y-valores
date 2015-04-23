@@ -1,0 +1,33 @@
+
+Nombre del primer sujeto: Juan
+Edad del primer sujeto: 20
+
+Nombre del segundo sujeto: Andrea
+Edad del segundo sujeto: 25
+
+Relacion que los une: hermanos
+
+Entre estos/as dos hermanos, el primero es el/la mayor? No, Andrea es el/la mayor
+
+
+--------------------------------
+Process exited after 13.48 seconds with return value 0
+Presione una tecla para continuar . . .
+
+---------------------------------------------------------------------------------------------
+
+
+Nombre del primer sujeto: Pablo
+Edad del primer sujeto: 32
+
+Nombre del segundo sujeto: Nicolas
+Edad del segundo sujeto: 29
+
+Relacion que los une: amigos
+
+Entre estos/as dos amigos, el primero es el/la mayor? Si, Pablo es el/la mayor.
+
+
+--------------------------------
+Process exited after 32.68 seconds with return value 0
+Presione una tecla para continuar . . .
